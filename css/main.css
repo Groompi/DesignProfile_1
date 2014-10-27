@@ -164,37 +164,41 @@ ul{
     height: 600px;
     width: 860px;
 }
+
+
 #A1{
     float:left;
-    width: 166px;
-    height: 166px;
-    margin-left: 23px;
+    width: 165px;
+    height: 165px;
+    margin-left: 25px;
     margin-right:25px;
     margin-top:25px;
 }
 #B1{
     float:left;
-    width: 166px;
-    height: 166px;
+    width: 165px;
+    height: 165px;
     margin-left: 25px;
     margin-right:25px;
     margin-top:25px;
 }
 #C1{
     float:left;
-    width: 166px;
-    height: 166px;
+    width: 165px;
+    height: 165px;
     margin-left: 25px;
     margin-right:25px;
     margin-top: 25px;
 }
 #D1{
     float:left;
-    width: 166px;
-    height: 166px;
+    width: 165px;
+    height: 165px;
     margin-left: 25px;
     margin-top: 25px;
+    margin-right:25px;
 }
+
 #A2{
     float:left;
     width: 166px;
@@ -207,7 +211,7 @@ ul{
     float:left;
     width: 166px;
     height: 166px;
-    margin-left: 20px;
+    margin-left: 25px;
     margin-right:25px;
     margin-top:25px;
 }
@@ -215,7 +219,7 @@ ul{
     float:left;
     width: 166px;
     height: 166px;
-    margin-left: 20px;
+    margin-left: 23px;
     margin-right:25px;
     margin-top: 25px;
 }
@@ -226,11 +230,12 @@ ul{
     margin-left: 25px;
     margin-top: 25px;
 }
+
 #A3{
     float:left;
     width: 166px;
     height: 166px;
-    margin-left: 23px;
+    margin-left: 25px;
     margin-right:25px;
     margin-top:25px;
 }
@@ -246,7 +251,7 @@ ul{
     float:left;
     width: 166px;
     height: 166px;
-    margin-left: 25px;
+    margin-left: 23px;
     margin-right:25px;
     margin-top: 25px;
 }
